@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Harshdeepdhull07/Harshdeepdhull07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey 👋, I'm Harshdeep Dhull
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+%26+Full+Stack+Developer;Building+Scalable+Applications;React+%7C+Node+%7C+MongoDB+%7C+Python;1500%2B+DSA+Problems+Solved" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Software Engineer • AI Enthusiast • Product Engineer • Problem Solver
+
+</div>
+
+---
+
+# 💫 About Me
+
+```yaml
+Name: Harshdeep Dhull
+Role: Software Engineer | AI Engineer | Full Stack Developer
+
+Experience:
+  - 3+ Years in Full Stack Development
+  - Product Engineering & Scalable Systems
+  - AI-focused Projects & Intelligent Applications
+
+Tech Stack:
+  - React.js
+  - Node.js
+  - MongoDB
+  - JavaScript
+  - Python
+  - TypeScript
+  - Express.js
+
+Core Interests:
+  - AI Engineering
+  - Scalable Backend Systems
+  - System Design
+  - Clean Software Architecture
+  - Distributed Systems
+
+Achievements:
+  - Solved 1500+ DSA Problems
+  - Built AI-powered Applications
+  - Production Platforms serving 100K+ Users
